@@ -30,4 +30,4 @@ This project sharpened my skills in:
 → Designing clean, story-driven dashboards
 → Translating sports data into business-style insights
 
-Screenshot Link of Dashboard Preview :- 
+Screenshot Link of Dashboard Preview :- https://github.com/sarat32-Data/PowerBI-Project---IPL-Match-Analysis-Dashboard/blob/main/Dashboard_Preview.png
